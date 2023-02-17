@@ -1,0 +1,16 @@
+06-01-2020/6/Doha/ATP250/1465260 $/A. Rublev
+12-01-2020/6/Adelaide/ATP250/610000 $/A. Rublev
+13-01-2020/6/Auckland/ATP250/610000 $/U. Humbert
+20-01-2020/14/Melbourne/Grand Slam/11633160 $/N. Djokovic
+03-02-2020/6/Pune/ATP250/610000 $/J. Veseky
+03-02-2020/6/Cordoba/ATP250/610000 $/C. Garin
+03-02-2020/6/Montpellier/ATP250/606350 $/G. Monfils
+10-02-2020/7/Rotterdam/ATP500/2155295 $/G. Monfils
+10-02-2020/6/New York/ATP250/804180 $/K. Edmund
+10-02-2020/6/Buenos Aires/ATP250/696280 $/C. Ruud
+16-02-2020/7/Rio de Janeiro/ATP500/1915485 $/C. Garin
+17-02-2020/6/Marseille/ATP250/769670 $/S. Tsitsipas
+17-02-2020/6/Delray Beach/ATP250/673655 $/R. Opelka
+21-02-2020/7/Dubai/ATP500/2950420 $/N. Djokovic
+21-02-2020/7/Acapulco/ATP500/2000845 $/R. Nadal
+21-02-2020/6/Santiago/ATP250/604010 $/T. Seyboth Wild
